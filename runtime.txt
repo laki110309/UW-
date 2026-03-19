@@ -1,2 +1,0 @@
-[runtime (1).txt](https://github.com/user-attachments/files/26120214/runtime.1.txt)
-python-3.11
